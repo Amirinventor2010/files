@@ -1,0 +1,148 @@
+🎯tutorial and file!
+Readme:
+-In each option of the list, the number of that option is written for you, and you can get its prerequisites through the number.
+
+-----------------------------------------------
+
+Contents:
+
+1 login cloudflare
+2 go to cloudflare worker
+3 worker vfarid
+4 worker BPB
+
+5 worker subscription
+
+6 warp termux uoosef
+7 warp termux uoosef (by Amirinventor and pyman)
+8 warp in windows
+9 warp app in android (uoosef-oblivion)
+10 change warp normal to warp plus in telegram bot
+11 download hiddify Next
+12 warp hiddify next (hiddify_com)
+13 warp hiddify (next amin)
+14 find clean ip
+
+-----------------------------------------------
+
+1 : 
+
+fake Email:
+
+site number 1 :
+https://temp-mail.org/
+
+site number 2 :
+https://www.fakemail.net/
+
+-----------------------------------------------
+
+3 : 
+
+link download worker vahid:
+https://github.com/vfarid/v2ray-worker
+
+-----------------------------------------------
+
+4 : 
+
+link download worker BPB:
+https://github.com/bia-pain-bache/BPB-Worker-Panel
+
+Link page UUID:
+https://www.uuidgenerator.net/
+
+-----------------------------------------------
+
+5 :
+
+create a subscription link:
+
+var list = [
+  "vmess://xxxxxx",
+  "vless://xxxxxx",
+  ...
+]
+export default {
+  async fetch(request, env) {
+    return new Response(btoa(list.join("\r\n")))
+  }
+}
+
+-----------------------------------------------
+
+ 6 :   
+
+link github wireguard-go:
+https://github.com/bepass-org/wireguard-go
+
+-----------------------------------------------
+
+ 7 :
+
+link page termux (Amirinventor and pyman):
+https://github.com/Amirinventor2010/warp-wireguard-go
+
+-----------------------------------------------
+
+8:
+
+link dowenload warp in windows:
+https://github.com/bepass-org/wireguard-go
+
+-----------------------------------------------
+
+ 9 :
+
+download App oblivion in Android:
+https://github.com/bepass-org/wireguard-go
+
+-----------------------------------------------
+
+ 10 :
+
+ID telegram bot warp plus:
+https://t.me/generatewarpplusbot
+
+-----------------------------------------------
+
+11 :
+
+link download Apphiddify next:
+https://github.com/hiddify/hiddify-next/releases
+
+-----------------------------------------------
+
+12 :
+
+link config wireguard:
+
+auto:
+warp://auto
+
+set license :
+warp://license@auto
+
+set IP :
+warp://cleanIP:port/?ifp=5-10
+
+set IP and license :
+warp://license@cleanip:port/?ifp=5-10
+
+-----------------------------------------------
+
+13 :
+
+link page wireguard config (amin) :
+https://github.com/amin4139/share_file/blob/main/Wireguard_hiddify
+
+-----------------------------------------------
+
+14 :
+
+find cleanIP with scanner peyman:
+https://github.com/Ptechgithub/warp
+
+-----------------------------------------------
+
+finish,Thank you for being with me!🕊️❤️
