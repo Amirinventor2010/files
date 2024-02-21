@@ -11,17 +11,25 @@ Contents:
 3 worker vfarid
 4 worker BPB
 
-5 worker subscription
+5 create a config vless+ws with worker
+6 create a config vless+ws with pages
 
-6 warp termux uoosef
-7 warp termux uoosef (by Amirinventor and pyman)
-8 warp in windows
-9 warp app in android (uoosef-oblivion)
-10 change warp normal to warp plus in telegram bot
-11 download hiddify Next
-12 warp hiddify next (hiddify_com)
-13 warp hiddify (next amin)
-14 find clean ip
+7 worker subscription
+
+8 warp termux uoosef
+9 warp termux uoosef (by Amirinventor and pyman)
+10 warp in windows
+11 warp app in android (uoosef-oblivion)
+12 change warp normal to warp plus in telegram bot
+
+13 download hiddify Next
+14 warp hiddify next (hiddify_com)
+15 warp hiddify (next amin)
+16 find clean ip
+17 warp auto scanner IP
+
+18 fork project vmvltrssso and run , use
+
 
 -----------------------------------------------
 
@@ -55,6 +63,56 @@ https://www.uuidgenerator.net/
 -----------------------------------------------
 
 5 :
+link download worker:
+https://raw.githubusercontent.com/amin4139/share_file/main/vless_worker
+
+(Edit line 201 "UUID")
+
+link receive UUID v4:
+https://www.uuidtools.com/v4
+
+DNS:
+9.9.9.9
+208.67.220.220
+198.153.192.1
+77.88.8.8.8
+
+source clean IP:
+https://t.me/yebekhe
+https://ircf.space/list.php
+https://github.com/vfarid/cf-clean-ips/blob/main/list.txt
+
+-----------------------------------------------
+
+6 :
+
+link project for fork:
+https://github.com/yaemiko-sub/newtunnel
+
+Build command: npm run cf-page-vless
+
+Build output directory: dist/apps/cf-page-vless
+
+link site UUID:
+https://www.v2fly.org/awesome/tools.html
+
+UUID : 053e3736-2405-4bb8-8bc5-0b3b635fc4fd (Example)
+NODE_VERSION: 18  
+
+DNS:
+9.9.9.9
+208.67.220.220
+198.153.192.1
+77.88.8.8.8
+
+source clean IP:
+https://t.me/yebekhe
+https://ircf.space/list.php
+https://github.com/vfarid/cf-clean-ips/blob/main/list.txt
+
+-----------------------------------------------
+
+7 :
 
 create a subscription link:
 
@@ -71,49 +129,49 @@ export default {
 
 -----------------------------------------------
 
- 6 :   
+ 8 :   
 
 link github wireguard-go:
 https://github.com/bepass-org/wireguard-go
 
 -----------------------------------------------
 
- 7 :
+ 9 :
 
 link page termux (Amirinventor and pyman):
 https://github.com/Amirinventor2010/warp-wireguard-go
 
 -----------------------------------------------
 
-8:
+10 :
 
 link dowenload warp in windows:
 https://github.com/bepass-org/wireguard-go
 
 -----------------------------------------------
 
- 9 :
+ 11 :
 
 download App oblivion in Android:
 https://github.com/bepass-org/wireguard-go
 
 -----------------------------------------------
 
- 10 :
+ 12 :
 
 ID telegram bot warp plus:
 https://t.me/generatewarpplusbot
 
 -----------------------------------------------
 
-11 :
+13 :
 
 link download Apphiddify next:
 https://github.com/hiddify/hiddify-next/releases
 
 -----------------------------------------------
 
-12 :
+14 :
 
 link config wireguard:
 
@@ -131,17 +189,44 @@ warp://license@cleanip:port/?ifp=5-10
 
 -----------------------------------------------
 
-13 :
+15 :
 
 link page wireguard config (amin) :
 https://github.com/amin4139/share_file/blob/main/Wireguard_hiddify
 
 -----------------------------------------------
 
-14 :
+16 :
 
 find cleanIP with scanner peyman:
 https://github.com/Ptechgithub/warp
+
+-----------------------------------------------
+17:
+
+Link subscription for hiddify next:
+https://raw.githubusercontent.com/Amirinventor2010/ip-scan-warp/main/warp
+
+
+-----------------------------------------------
+
+18 :
+
+link site :
+replit.com
+
+key:
+ym
+
+value: 
+(your Address site project)
+
+edit config:
+
+Address: www.zula.ir
+port: 8880
+host: (your Argo Address)
+TLS: turn off (nothing,Empty)
 
 -----------------------------------------------
 
