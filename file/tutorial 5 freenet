@@ -2,10 +2,10 @@
 Readme:
 -In each option of the list, the number of that option is written for you, and you can get its prerequisites through the number.
 
------------------------------------------------
+'-----------------------------------------------
 
 Contents:
-
+\
 1 login cloudflare and verifying 
 2 worker vfarid
 3 worker BPB
