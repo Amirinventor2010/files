@@ -6,14 +6,13 @@ Readme:
 
 Contents:
 
-1 login cloudflare
-2 go to cloudflare worker
-3 worker vfarid
-4 worker BPB
+1 login cloudflare and verifying 
+2 worker vfarid
+3 worker BPB
 
-5 create a config vless+ws with worker
-6 create a config vless+ws with pages
-
+4 create a config vless+ws with worker
+5 create a config vless+ws with pages
+6 create a config pages EDtunnel  
 7 worker subscription
 
 8 warp termux uoosef
@@ -26,11 +25,13 @@ Contents:
 14 warp hiddify next (hiddify_com)
 15 warp hiddify (next amin)
 16 find clean ip
-17 warp auto scanner IP
+17 warp on warp in hiddify next
 
 18 fork project vmvltrssso and run , use
 
 19 fragmant subscription link on V2ryng and Mahsang and v2box
+
+20 work with the Tool fragment IRCF
 
 -----------------------------------------------
 
@@ -46,14 +47,14 @@ https://www.fakemail.net/
 
 -----------------------------------------------
 
-3 : 
+2 : 
 
 link download worker vahid:
 https://github.com/vfarid/v2ray-worker
 
 -----------------------------------------------
 
-4 : 
+3 : 
 
 link download worker BPB:
 https://github.com/bia-pain-bache/BPB-Worker-Panel
@@ -63,7 +64,7 @@ https://www.uuidgenerator.net/
 
 -----------------------------------------------
 
-5 :
+4 :
 link download worker:
 https://raw.githubusercontent.com/amin4139/share_file/main/vless_worker
 
@@ -85,7 +86,7 @@ https://github.com/vfarid/cf-clean-ips/blob/main/list.txt
 
 -----------------------------------------------
 
-6 :
+5 :
 
 link project for fork:
 https://github.com/yaemiko-sub/newtunnel
@@ -112,10 +113,21 @@ https://ircf.space/list.php
 https://github.com/vfarid/cf-clean-ips/blob/main/list.txt
 
 -----------------------------------------------
+6:
+
+link download file worker:
+https://github.com/Amirinventor2010/ed-tunnel/blob/main/_worker.js
+
+
+link receive the UUID:
+https://www.uuidgenerator.net/
+
+-----------------------------------------------
 
 7 :
 
 create a subscription link:
+
 
 var list = [
   "vmess://xxxxxx",
@@ -127,6 +139,7 @@ export default {
     return new Response(btoa(list.join("\r\n")))
   }
 }
+
 
 -----------------------------------------------
 
@@ -150,7 +163,6 @@ link dowenload warp in windows:
 https://github.com/bepass-org/wireguard-go
 
 -----------------------------------------------
-
  11 :
 
 download App oblivion in Android:
@@ -200,14 +212,16 @@ https://github.com/amin4139/share_file/blob/main/Wireguard_hiddify
 16 :
 
 find cleanIP with scanner peyman:
-https://github.com/Ptechgithub/warp
+https://github.com/Amirinventor2010/warp-scanner-install
 
 -----------------------------------------------
 17:
 
-Link subscription for hiddify next:
-https://raw.githubusercontent.com/Amirinventor2010/ip-scan-warp/main/warp
+Link download config:
+https://github.com/Amirinventor2010/files/blob/main/Config/warp-on-warp-hiddify-next.json
 
+link auto warp to warp:
+https://github.com/ippscan/ippscanTEAM/tree/main
 
 -----------------------------------------------
 
@@ -234,5 +248,14 @@ TLS: turn off (nothing,Empty)
 
 link subscription:
 https://rand-ed-sub-public.fesire6727.workers.dev/
+
+-----------------------------------------------
+20:
+
+link Tool site :
+
+http://ircfspace.github.io/fragment/
+
+-----------------------------------------------
 
 finish,Thank you for being with me!🕊️❤️
