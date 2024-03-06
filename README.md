@@ -4,7 +4,7 @@
 
 *Telegram channel: https://t.me/amirinventor2010*
 
-Thanks for fallow me!❤️
+```Thanks for fallow me!❤️```
 
 # فایل
 ## من تمامی فایل های مورد نیاز رو چه در ویدیو هایی که میگم و چه در جا های دیگه توی این مخزن جمع آوری میکنم!
